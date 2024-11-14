@@ -1,11 +1,10 @@
-/* Cores */
+
 :root {
     --cor-principal: #34C759; /* Verde */
     --cor-secundaria: #FFFFFF; /* Branca */
     --cor-fundo: #F7F7F7; /* Cinza claro */
   }
   
-  /* Global */
   * {
     box-sizing: border-box;
     margin: 0;
